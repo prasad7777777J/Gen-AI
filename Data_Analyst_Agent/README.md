@@ -2,6 +2,9 @@
 
 A production-ready, multi-agent AI system that turns any CSV file into an interactive analytics assistant. Ask questions in plain English and get charts, data tables, and AI-generated business insights instantly.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gen-ai-ik8uyaxlkwy72cemexsszs.streamlit.app)
+
+> 🚀 **Live Demo:** https://gen-ai-ik8uyaxlkwy72cemexsszs.streamlit.app
 ---
 
 ## 🎯 What it does
