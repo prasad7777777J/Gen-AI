@@ -1,7 +1,0 @@
-streamlit
-langchain
-langchain-ollama
-langchain-community
-mysql-connector-python
-plotly
-pandas
